@@ -91,3 +91,24 @@ menambaharray = [...menambaharray, 28,21,23,11,24]
 console.log(menambaharray);
 menambaharray.unshift(5) // menambah nilai dari awal indeks array
 console.log(menambaharray);
+
+
+// belajar manual 
+
+//string
+
+let contoh3 = "siapaaku"
+console.log(contoh3);
+let contoh4 = "siapaaku"
+console.log(contoh4);
+
+let belajar = 'kamu siapa'
+console.log(belajar,contoh4,contoh3); // sama seperti 3x console.log namun menjadi 1 variable
+
+let belajar2 = 'apakah kamu makan siang hari ini kawan'
+console.log(belajar2,belajar,contoh3,contoh4); 
+
+//array
+let belajararray = ["string","know"]
+console.log(belajararray[0]); // indeks 0 menandakan 'string', dan jika menggunakan indeks 1 menandakan 'know'
+
